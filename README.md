@@ -1,6 +1,6 @@
 # Realtime Transactional Email Monitoring Dashboard
 
-Demo of a realtime transational email monitoring dashboard with React, SendGrid and Pusher Channels. Tutorial:
+Demo of a realtime transational email monitoring dashboard with React, SendGrid and Pusher Channels. Tutorial: https://pusher.com/tutorials/transactional-emails-react-sendgrid
 
 ## Getting Started
 
